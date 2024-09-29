@@ -28,7 +28,7 @@ module.exports = {
   // googleFontSans - the sans serif font used in onedrive-cf-index-ng.
   googleFontSans: 'Roboto',
   // googleFontMono - the monospace font used in onedrive-cf-index-ng.
-  googleFontMono: 'Fira Mono',
+  googleFontMono: 'Roboto',
   // googleFontLinks -  an array of links for referencing the google font assets.
   googleFontLinks: ['https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap'],
 
